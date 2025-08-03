@@ -46,7 +46,7 @@ Follow these steps to get your Recipe Finder app up and running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+git clone [https://github.com/your-username/recipe-finder.git](https://github.com/sirajulhugh/recipe.git) 
 cd recipe-finder
 ```
 
