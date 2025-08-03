@@ -1,5 +1,7 @@
 # 🍳 Recipe Finder App
 
+Live link: https://recipe-hxuw.vercel.app/
+
 A responsive, user-friendly web application that allows users to search for recipes using ingredients or dish names, save their favorite recipes, and manage their profile. It fetches real-time recipe data from TheMealDB API and uses Supabase for user authentication and persistent storage of favorite recipes.
 
 ## ✨ Features
@@ -46,7 +48,7 @@ Follow these steps to get your Recipe Finder app up and running locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/recipe-finder.git](https://github.com/sirajulhugh/recipe.git) 
+git clone https://github.com/sirajulhugh/recipe.git
 cd recipe-finder
 ```
 
